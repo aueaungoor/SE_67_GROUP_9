@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 NEOOOOOOOOOOOOOOOOOOOO
+=======
+
+afawfgghaseaah
+>>>>>>> 36d11a07c293deb0bfc961cbafe067a577606302
